@@ -1,26 +1,9 @@
 # untitled1
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-#� �f�l�u�t�t�e�r�
-�
-�#� �f�l�u�t�t�e�r�
-�
-�#� �f�l�u�t�t�e�r�
-�
-�
 Product List App
 This is a simple Flutter application that allows the user to view a list of products with their names, prices, and images. The app is designed to be a user interface prototype that showcases how to build a basic product listing application using Flutter.
 
